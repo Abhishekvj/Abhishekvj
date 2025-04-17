@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jumnakeabhi@gmail.com**
 
-- 📄 Know about my experiences [Web Developer intern at PinnacleLabs](Web Developer intern at PinnacleLabs)
+- 📄 Know about my experiences [Web Developer intern at PinnacleLabs]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
